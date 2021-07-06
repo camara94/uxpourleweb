@@ -88,5 +88,7 @@ Il y a également ce genre de test
 ![organisation des test](images/organisationdestest.png)
 
 ## Prototyper Sur Papier
+### Trier De Carte
 ![prototypepapier](images/prototypesurpapier.png)
+### Prototype Sur Papier
 ![prototypepapier](images/prototypesurpapier2.png)
