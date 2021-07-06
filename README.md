@@ -150,3 +150,8 @@ c'est à dire des profiles de segments significatifs
 ![generation](images/generation.png)
 ### Plages Des Générations
 ![plage](images/plagedegeneration.png)
+## Comprendre Les Attentes Des Boomers
+![boomers 1](images/boomers1.png)
+![boomers 2](images/boomers2.png)
+![boomers 3](images/boomers3.png)
+![boomers 4](images/boomers4.png)
