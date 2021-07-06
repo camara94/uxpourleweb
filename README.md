@@ -167,3 +167,6 @@ c'est à dire des profiles de segments significatifs
 ## Comprendre Les Attentes Des Générations Z
 ![z 1](images/z1.png)
 ![z 2](images/z2.png)
+## Comprendre Les Attentes Des Générations Alpha
+![alpha 1](images/alpha1.png)
+![alpha 2](images/alpha2.png)
