@@ -65,3 +65,24 @@ L'UX va également faire travailler les différentes équipes en parallèle pour
 
 ### Avantages
 ![avantages](images/avantageux.png)
+
+## Conduire Des Tests
+On mesure les aspects suivants:
+1. le nombre de succès d'utilisation du produit
+2. le nombre d'echecs d'utilisation du produit
+3. le taux d'erreur
+4. la facilité d'utilisation
+   
+![mesure](images/mesure.png)
+### Type de tests
+Nous allons faire nos tests sur les éléments suivants:
+1. le contenu
+2. la forme
+3. le parcours
+![test](images/typedetest.png)
+Il y a également ce genre de test
+![test](images/typedetest2.png)
+### Conduite De Tests
+![conduite de test](images/conduitedetest.png)
+### Organisation Des Tests
+![organisation des test](images/organisationdestest.png)
