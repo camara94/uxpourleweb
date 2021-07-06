@@ -42,6 +42,26 @@ Pour repondre à un problème d'UX, nous devons segmenter le travail (Qui ?, Pou
 1. Qui sont nos utilisateurs ?
 2. Pourquoi viennent-ils sur notre site et quel est le problème qu'ils veulent répondre ?
 3. Comment vont-ils se comporter sur notre site ou à l'exterieur de notre site(réseaux, ....), quelle fréquence, quel va être leurs modes de visite ?
-4. C'est que nous pouvoir faire émerger les objectifs de nos utilisateurs
+4. C'est ainsi que nous allons pouvoir faire émerger les objectifs de nos utilisateurs
    
 ![scenario](images/scenario.png)
+
+## Intégrer UX Dans Un Projet Web
+### Problématique
+la création d'un site web fait  face à des problèmes reccurents et souvent répétitifs
+![probleme](images/problemedeprojetweb.png)
+
+### Solution
+La création d'un site web fait intervenir une équipe pluridisciplinaire, donc le rôle de l'UX va être l'intégration des diffrentes compétences avec une approche centré sur les bésoins de utilisateur.
+
+![approche](images/approchecentreutilisateur.png)
+
+L'UX va également faire travailler les différentes équipes en parallèle pour éviter les effets de silo
+
+![parallele](images/parallele.png)
+### illustration
+![enchainement](images/enchainementdetravail.png)
+![uxintregre](images/uxintregre.png)
+
+### Avantages
+![avantages](images/avantageux.png)
