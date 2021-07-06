@@ -1,1 +1,3 @@
-# uxpourleweb
+# L'UX pour le design web
+
+Dans cette formation de Didier Mazier, vous apprendrez à améliorer et à optimiser l'expérience utilisateur (UX, User eXperience) de votre site web commercial. Après avoir abordé les principes de base, vous étudierez et vous tiendrez compte du comportement des utilisateurs ainsi que de leur parcours lors de leurs visites. Vous verrez comment soigner et optimiser la structure, la navigation, le design et l'aspect du site et de ses contenus texte et graphique. Enfin, vous vous pencherez sur un autre aspect important de l'UX, à savoir les techniques d'acquisition et de fidélisation des clients.
