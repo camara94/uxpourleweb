@@ -158,3 +158,8 @@ c'est à dire des profiles de segments significatifs
 ## Comprendre Les Attentes Des Générations X
 ![boomers 1](images/x1.png)
 ![boomers 2](images/x2.png)
+
+## Comprendre Les Attentes Des Générations Milléniaux
+![boomers 1](images/milleniaux1.png)
+![boomers 2](images/milleniaux2.png)
+![boomers 3](images/milleniaux3.png)
