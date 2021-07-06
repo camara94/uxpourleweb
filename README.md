@@ -95,3 +95,37 @@ Il y a également ce genre de test
 
 ## Logiciel de Prototypage
 ![solution](images/logicielux.png)
+
+## Comprendre Le Comportement Utilisateur
+### Etudes
+![etude](images/etude.png)
+### Statistique
+![statistique](images/statistique.png)
+### Persona
+Pour bien comprendre nos utilisateurs, il va falloir créer des persona:
+c'est à dire des profiles de segments significatifs
+1. Socio-démographiques 
+    * l'âge
+    * niveau d'études
+    * profession
+    * situation familiale
+    * l'habitat...
+2. Comportementales
+    * quelles sont les motivations
+    * quelles sont les attentes
+    * quel est le niveau technologique de notre cible
+    * comment il va s'exprimer avec quel langage
+3. Problème
+    * quels sont ses objectifs
+    * quelles sont ses frustrations
+4. Points de contact
+    * où nous allons entrer en contact avec ce persona
+    * quels sont les media qu'il semble fréquenter
+    * quels sont les réseaux sociaux qu'il fréquence le plus souvent
+    * quelle est appartenance à des groupes (réligieux, politique, raciale, ....)<br/>
+![person](images/persona.png)
+###  Vision Claire
+![vision](images/vision.png)
+
+### Organisation Du Processus
+![processus](images/organisationprocessus.png)
