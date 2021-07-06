@@ -20,3 +20,12 @@ Dans cette formation de Didier Mazier, vous apprendrez à améliorer et à optim
 ### Vérifier Les Points Clés
 ![pointscles](images/pointcles.png)
 
+## Distinguer UI Et UX
+
+### Qu'est L'UI
+![ui](images/ui.png)
+### Qu'est L'UX
+![uX](images/ux.png)
+
+### Les Axes de L'UX
+![axes](images/axes.png)
