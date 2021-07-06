@@ -86,3 +86,7 @@ Il y a également ce genre de test
 ![conduite de test](images/conduitedetest.png)
 ### Organisation Des Tests
 ![organisation des test](images/organisationdestest.png)
+
+## Prototyper Sur Papier
+![prototypepapier](images/prototypesurpapier.png)
+![prototypepapier](images/prototypesurpapier2.png)
