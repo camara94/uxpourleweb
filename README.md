@@ -156,10 +156,14 @@ c'est à dire des profiles de segments significatifs
 ![boomers 3](images/boomers3.png)
 ![boomers 4](images/boomers4.png)
 ## Comprendre Les Attentes Des Générations X
-![boomers 1](images/x1.png)
-![boomers 2](images/x2.png)
+![x 1](images/x1.png)
+![x 2](images/x2.png)
 
 ## Comprendre Les Attentes Des Générations Milléniaux
-![boomers 1](images/milleniaux1.png)
-![boomers 2](images/milleniaux2.png)
-![boomers 3](images/milleniaux3.png)
+![Milléniaux 1](images/milleniaux1.png)
+![Milléniaux 2](images/milleniaux2.png)
+![Milléniaux 3](images/milleniaux3.png)
+
+## Comprendre Les Attentes Des Générations Z
+![z 1](images/z1.png)
+![z 2](images/z2.png)
