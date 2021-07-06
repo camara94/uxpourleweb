@@ -29,3 +29,19 @@ Dans cette formation de Didier Mazier, vous apprendrez à améliorer et à optim
 
 ### Les Axes de L'UX
 ![axes](images/axes.png)
+
+## Objectif de UX
+### Les Objectifs Des Sites
+![objectifs](images/objectifdesites.png)
+
+### Les Objectifs De L'Utilisateur
+![objectifs](images/objectifutilisateur.png)
+
+### Scénario: Les Bases
+Pour repondre à un problème d'UX, nous devons segmenter le travail (Qui ?, Pourquoi?, Comment ?) et repondre à ces questions:
+1. Qui sont nos utilisateurs ?
+2. Pourquoi viennent-ils sur notre site et quel est le problème qu'ils veulent répondre ?
+3. Comment vont-ils se comporter sur notre site ou à l'exterieur de notre site(réseaux, ....), quelle fréquence, quel va être leurs modes de visite ?
+4. C'est que nous pouvoir faire émerger les objectifs de nos utilisateurs
+   
+![scenario](images/scenario.png)
