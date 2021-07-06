@@ -129,3 +129,24 @@ c'est à dire des profiles de segments significatifs
 
 ### Organisation Du Processus
 ![processus](images/organisationprocessus.png)
+
+## Concevoir Pour Toutes Les Générations
+![genration](images/concevoirpourtoutesgeneration.png)
+### Analyse Générationnelle
+1. Technique/physiques liées à l'âge
+   * la baisse de la vision
+   * la baisse de la mobilité, 
+   * ...
+2. Sociétales
+   * quel est le status professionel(actif ou retraiter)
+   * le genre
+   * l'habitat
+   * l'éducation
+   * ...
+3. Générationnelles
+   * quels sont les modes de pensés et d'actions communes à un groupe d'âge liées la position dans le temps de la génération à quelle va appartenir l'individu.
+
+### Génération
+![generation](images/generation.png)
+### Plages Des Générations
+![plage](images/plagedegeneration.png)
