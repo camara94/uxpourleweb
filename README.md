@@ -233,3 +233,13 @@ On doit se baser sur les critères suivants pour trancher avant de proceder à l
 ![ponts](images/ponts.png)
 ### Penser <<Multicanal>>
 ![penserm](images/pensermulticanal.png)
+## Comment Employer Les Modals
+![modal](images/modal.png)
+### Avant L'Accès Au Contenu
+![modal](images/modalavantaccess.png)
+### Conditionner L'Accès 
+![conditionneraccess](images/conditionneracces.png)
+### Susciter Le Feedback
+![feedback](images/feedback.png)
+### Promotion 
+![promouvoir](images/promouvoir.png)
