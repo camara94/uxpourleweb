@@ -264,3 +264,21 @@ On doit se baser sur les critères suivants pour trancher avant de proceder à l
    ![getting](images/gettingweb.png)
 6. La mauvaise lisibilité comme l'usage de plusieurs couleurs, petite taille de police, ...
    ![lisiblite](images/lisibilite.png)
+
+## Gérer Les Preuves Sociales
+### Le Bouche A Oreille
+![boucheaoreille](images/boucheaoreille.png)
+### Réduire L'Incertitude
+![incertitude](images/reduireincertitude.png)
+### Réseaux Sociaux (Arme A Double Tranchant)
+![arm](images/armeadoubletranchant.png)
+### Montrer Les Meilleures Ventes
+![vente](images/meilleuresvente.png)
+### Cross-selling: Vente Croisée
+![cross-selling](images/crossselling.png)
+### Up-selling: Montée En Gamme
+![up-selling](images/upselling.png)
+### Temoignage Sur Les Leading Pages
+![langdingpage](images/landingpage.png)
+## Optimiser L'Accessibilité
+![accessibilite](images/accessibilite.png)
