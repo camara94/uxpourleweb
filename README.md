@@ -228,3 +228,8 @@ On doit se baser sur les critères suivants pour trancher avant de proceder à l
 
 ## Solution Guider Utilisateur
 ![guidersolution](images/soulutionguider.png)
+## Soigner Les Interactions
+### Etablir Des Ponts
+![ponts](images/ponts.png)
+### Penser <<Multicanal>>
+![penserm](images/pensermulticanal.png)
