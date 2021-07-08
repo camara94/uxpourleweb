@@ -170,3 +170,5 @@ c'est à dire des profiles de segments significatifs
 ## Comprendre Les Attentes Des Générations Alpha
 ![alpha 1](images/alpha1.png)
 ![alpha 2](images/alpha2.png)
+## Les points De Contact
+![lespointsdecontact](images/pointdecontact.png)
