@@ -186,7 +186,7 @@ c'est à dire des profiles de segments significatifs
 
 ### Parcours Pour L'Utilisateur
 ![utilisateur](images/parcoursutilisateur.png)
-### Penser <<Séquences>>
+### Penser &lt;&lt; Séquences &gt;&gt;
 ![penser sequences](images/pensersequences.png)
 
 ### Options Claires
@@ -281,4 +281,18 @@ On doit se baser sur les critères suivants pour trancher avant de proceder à l
 ### Temoignage Sur Les Leading Pages
 ![langdingpage](images/landingpage.png)
 ## Optimiser L'Accessibilité
+### Définition De L'Accessibilité
 ![accessibilite](images/accessibilite.png)
+### Principaux Type De Handicap
+![typehandicap](images/typehandicap.png)
+### Bésoins Fonctionels
+![besoinf](images/besoinfonctionnels.png)
+### Impact D'Âge
+![impactage](images/impactage.png)
+
+### Tous Concernés
+Nous sommes tous concernés par les problèmes ci-dessous selons les conditions dans lesquelles, nous consultons les sites:
+![tousconcernes](images/tousconcernes.png)
+
+### Règles Absolues
+![regleabsolues](images/regleabsolues.png)
