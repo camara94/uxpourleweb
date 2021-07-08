@@ -182,3 +182,17 @@ c'est à dire des profiles de segments significatifs
 ![strategies](images/strategies.png)
 ### La Carte d'Expérience
 ![carteexperience](images/carteexperience.png)
+## Distingguer Le Parcours Et Séquences
+
+### Parcours Pour L'Utilisateur
+![utilisateur](images/parcoursutilisateur.png)
+### Penser <<Séquences>>
+![penser sequences](images/pensersequences.png)
+
+### Options Claires
+![optionsclaires](images/optionsclaires.png)
+![optionsclaires](images/optionsclaires2.png)
+### Micromoment
+![micromoment](images/micromoment.png)
+### Engager Les Clients Au Micromoment
+![engager](images/engagementmicromoment.png)
