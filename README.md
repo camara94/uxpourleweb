@@ -213,3 +213,18 @@ c'est à dire des profiles de segments significatifs
 On doit se baser sur les critères suivants pour trancher avant de proceder à la persuation<br>
 ![critere](images/criterepersuation.png)
 
+## Guider L'Utilisateur
+![guider](images/guideruser.png)
+### Onboarding
+![onboarding](images/onboarding.png)
+### Pour Réussir Onboarding
+![reussironboarding](images/reussironboarding.png)
+### Guider Un Utilisateur Quand
+![quandguider](images/guiderquand.png)
+### Où Et Comment Guider L'Utilisateur
+![ouetcomment](images/ouetcommentguider.png)
+### Apprentissage Et Intuitivité
+![apprentissage](images/apprentissageintuivite.png)
+
+## Solution Guider Utilisateur
+![guidersolution](images/soulutionguider.png)
