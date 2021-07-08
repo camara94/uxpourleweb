@@ -243,3 +243,24 @@ On doit se baser sur les critères suivants pour trancher avant de proceder à l
 ![feedback](images/feedback.png)
 ### Promotion 
 ![promouvoir](images/promouvoir.png)
+## Comprendre Les Causes De Rebond
+
+### Insatisfaction
+![rebond](images/insatisfaction.png)
+### Cause D'Insatisfaction
+![cause](images/causeinsatisfaction.png)
+
+### Autres Causes
+1. Une navigation trop complexe basée sur l'organisation de l'entreprise, soit sur son catalogue
+   ![nav](images/nav1.png)
+2. Une navigagiton éparpillé avec des menu un peu partout
+   ![navfrag](images/navfrag.png)
+3. Une arborescence atomisée c'est à dire qui va diviser la navigation dans un souci d'organisation
+   ![navatom](images/navatom.png)
+
+4. Des média intrusifs qui vont s'introduire automatique vont perturber l'utilisateur et cela va interrompre son cheminement et finalement, il va quitter votre site
+   ![navmedia](images/navmedia.png)
+5. La présence des barrières qu'on appelle en développement web getting qui permet d'obtenir des informations sur les utilisateurs en échange de contenu c'est quelque chose qui donne une mauvaise réputation
+   ![getting](images/gettingweb.png)
+6. La mauvaise lisibilité comme l'usage de plusieurs couleurs, petite taille de police, ...
+   ![lisiblite](images/lisibilite.png)
