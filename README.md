@@ -196,3 +196,20 @@ c'est à dire des profiles de segments significatifs
 ![micromoment](images/micromoment.png)
 ### Engager Les Clients Au Micromoment
 ![engager](images/engagementmicromoment.png)
+## Employer La Persuasion Et Les Dark Patterns
+### Définition du Dark Pattern
+![definition](images/darkpattern.png)
+### Notion De Zone Grise
+![zonegrise](images/notiondezonegrise.png)
+![zonegrise](images/notiondezonegrise2.png)
+![zonegrise](images/notiondezonegrise3.png)
+![zonegrise](images/notiondezonegrise4.png)
+![zonegrise](images/notiondezonegrise5.png)
+
+### Où Placer La Limite ?
+![limite](images/placerlimite.png)
+![limite](images/placerlimite2.png)
+### Critères de Persuasion
+On doit se baser sur les critères suivants pour trancher avant de proceder à la persuation<br>
+![critere](images/criterepersuation.png)
+
