@@ -172,3 +172,13 @@ c'est à dire des profiles de segments significatifs
 ![alpha 2](images/alpha2.png)
 ## Les points De Contact
 ![lespointsdecontact](images/pointdecontact.png)
+
+## Appréhender Le Parcours Utilisateur
+### Le Parcours Client
+![parcoursclient](images/parcoursclient.png)
+### Les Etapes Du Parcours Client
+![etape](images/etapesparcoursu.png)
+### Les Stratégies A Mettre en place
+![strategies](images/strategies.png)
+### La Carte d'Expérience
+![carteexperience](images/carteexperience.png)
